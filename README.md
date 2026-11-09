@@ -1,5 +1,3 @@
-# Lab2_System
-
 # Lab 2 – Bicycle Rental and Mushroom Identification System
 
 ## Project Overview
