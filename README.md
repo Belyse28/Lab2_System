@@ -65,7 +65,3 @@ The program selects questions based on previous answers and validates that users
 
 
 
-
-## License
-
-This project was developed for educational and academic purposes.
